@@ -7,7 +7,6 @@ O projeto inclui a criação e manipulação de dados em diversas tabelas relaci
 
 # Menu
 - [Consultas (SELECT)](#consultas-select)
-- [Consultas (SELECT)](#consultas-select)
 - [Insercoes de Dados INSERT](#insercoes-de-dados-insert)
 - [Atualizacoes de Dados UPDATE](#atualizacoes-de-dados-update)
 - [Exclusao de Dados DELETE](#exclusao-de-dados-delete)
@@ -27,7 +26,7 @@ Foram criadas várias consultas utilizando:
 
 ---
 
-## Inserções de Dados INSERT
+## Inserções de Dados - INSERT
 Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Autores
 - Gêneros
