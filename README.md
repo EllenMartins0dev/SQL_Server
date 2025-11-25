@@ -11,7 +11,7 @@ O projeto inclui a criação e manipulação de dados em diversas tabelas relaci
 - [Atualizacoes de Dados UPDATE](#atualizacoes-de-dados-update)
 - [Exclusao de Dados DELETE](#exclusao-de-dados-delete)
 - [Resumo Geral](#resumo-geral)
-  
+- [O que é possível aprender com este projeto?](#ro-que-e-possivel-aprender-com-este-projeto)
 
 ---
 
@@ -67,3 +67,15 @@ Foram feitos deletes com condições nas tabelas, incluindo:
 - UPDATEs aplicados com critérios específicos
 - DELETEs condicionais
 - Relacionamentos estruturados corretamente entre as entidades
+
+
+  ---
+
+## O que é possível aprender com este projeto?
+- Ao desenvolver este sistema, é possível:
+- Entender a estruturação de um banco de dados relacional
+- Praticar comandos essenciais de manipulação de dados (CRUD)
+- Trabalhar com junções entre tabelas e compreender seus relacionamentos
+- Criar consultas eficientes e bem estruturadas
+- Garantir integridade e consistência ao inserir, atualizar e excluir dados
+- Desenvolver raciocínio lógico aplicado ao armazenamento e recuperação de informações
