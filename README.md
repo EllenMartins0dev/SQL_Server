@@ -7,9 +7,9 @@ O projeto inclui a criação e manipulação de dados em diversas tabelas relaci
 
 # Menu
 - [Consultas (SELECT)](#consultas-select)
-- [Inserções de Dados (INSERT)](#insercoes-de-dados-insert)
-- [Atualizações de Dados (UPDATE)](#atualizacoes-de-dados-update)
-- [Exclusão de Dados (DELETE)](#exclusao-de-dados-delete)
+- [Insercoes de Dados INSERT](#insercoes-de-dados-insert)
+- [Atualizacoes de Dados UPDATE](#atualizacoes-de-dados-update)
+- [Exclusao de Dados DELETE](#exclusao-de-dados-delete)
 - [Resumo Geral](#resumo-geral)
   
 
