@@ -2,6 +2,8 @@
 Este repositório contém as atividades desenvolvidas para o projeto de banco de dados de uma biblioteca, utilizando SQL Server.
 O projeto inclui a criação e manipulação de dados em diversas tabelas relacionadas a livros, autores, clientes, funcionários, estoque e movimentações.
 
+---
+
 
 # Menu
 - [Consultas (SELECT)](#consultas-select)
@@ -13,7 +15,7 @@ O projeto inclui a criação e manipulação de dados em diversas tabelas relaci
 
 ---
 
-# Consultas (SELECT)
+## Consultas (SELECT)
 Foram criadas várias consultas utilizando:
 - Filtros com WHERE
 - Ordenações com ORDER BY
@@ -23,6 +25,7 @@ Foram criadas várias consultas utilizando:
 - Seleções relacionadas a clientes, livros, autores, estoques e movimentações
 
 
+---
 
 ## Inserções de Dados (INSERT)
 Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
@@ -37,6 +40,7 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Relacionamentos entre livros, autores e gêneros
   
 
+---
 
 ## Atualizações de Dados (UPDATE)
 - Foram realizadas atualizações com condições, como:
@@ -45,14 +49,16 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Atualização de preços de livros
   
 
+---
 
 ## Exclusão de Dados (DELETE)
 Foram feitos deletes com condições nas tabelas, incluindo:
 - Remoção de autores
 - Remoção de gêneros
 - Exclusão de relacionamentos entre tabelas
---
 
+
+---
 
 ## Resumo Geral
 - Este projeto contempla:
