@@ -2,7 +2,15 @@
 Este repositório contém as atividades desenvolvidas para o projeto de banco de dados de uma biblioteca, utilizando SQL Server.
 O projeto inclui a criação e manipulação de dados em diversas tabelas relacionadas a livros, autores, clientes, funcionários, estoque e movimentações.
 
-## Atividades Realizadas
+
+# Menu
+- [Consultas (SELECT)](#consultas-select)
+- [Inserções de Dados (INSERT)](#insercoes-de-dados-insert)
+- [Atualizações de Dados (UPDATE)](#atualizacoes-de-dados-update)
+- [Exclusão de Dados (DELETE)](#exclusao-de-dados-delete)
+- [Resumo Geral](#resumo-geral)
+
+
 # Consultas (SELECT)
 Foram criadas várias consultas utilizando:
 - Filtros com WHERE
@@ -12,7 +20,8 @@ Foram criadas várias consultas utilizando:
 - Consultas envolvendo múltiplas tabelas com INNER JOIN
 - Seleções relacionadas a clientes, livros, autores, estoques e movimentações
 
-# Inserções de Dados (INSERT)
+
+## Inserções de Dados (INSERT)
 Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Autores
 - Gêneros
@@ -25,21 +34,21 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Relacionamentos entre livros, autores e gêneros
 
 
-# Atualizações de Dados (UPDATE)
+## Atualizações de Dados (UPDATE)
 - Foram realizadas atualizações com condições, como:
 - Alteração de informações de contato
 - Mudança de situação de funcionários
 - Atualização de preços de livros
 
 
-# Exclusão de Dados (DELETE)
+## Exclusão de Dados (DELETE)
 Foram feitos deletes com condições nas tabelas, incluindo:
 - Remoção de autores
 - Remoção de gêneros
 - Exclusão de relacionamentos entre tabelas
 
 
-📌 Resumo Geral
+## Resumo Geral
 Este projeto contempla:
 - SELECTs com filtros, ordenação, junções e condições
 - INSERTs para povoamento completo das tabelas
