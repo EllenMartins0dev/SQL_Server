@@ -7,12 +7,12 @@ O projeto inclui a criação e manipulação de dados em diversas tabelas relaci
 
 # Menu
 - [Consultas (SELECT)](#consultas-select)
+- [Consultas (SELECT)](#consultas-select)
 - [Insercoes de Dados INSERT](#insercoes-de-dados-insert)
 - [Atualizacoes de Dados UPDATE](#atualizacoes-de-dados-update)
 - [Exclusao de Dados DELETE](#exclusao-de-dados-delete)
 - [Resumo Geral](#resumo-geral)
-- [O que é possível aprender com este projeto?](#ro-que-e-possivel-aprender-com-este-projeto)
-
+- [O que e possivel aprender com este projeto](#o-que-e-possivel-aprender-com-este-projeto)
 ---
 
 ## Consultas (SELECT)
@@ -27,7 +27,7 @@ Foram criadas várias consultas utilizando:
 
 ---
 
-## Inserções de Dados (INSERT)
+## Inserções de Dados INSERT
 Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Autores
 - Gêneros
@@ -42,7 +42,7 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 
 ---
 
-## Atualizações de Dados (UPDATE)
+## Atualizações de Dados UPDATE
 - Foram realizadas atualizações com condições, como:
 - Alteração de informações de contato
 - Mudança de situação de funcionários
@@ -51,7 +51,7 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 
 ---
 
-## Exclusão de Dados (DELETE)
+## Exclusão de Dados DELETE
 Foram feitos deletes com condições nas tabelas, incluindo:
 - Remoção de autores
 - Remoção de gêneros
@@ -71,7 +71,7 @@ Foram feitos deletes com condições nas tabelas, incluindo:
 
   ---
 
-## O que é possível aprender com este projeto?
+## O que é possível aprender com este projeto
 - Ao desenvolver este sistema, é possível:
 - Entender a estruturação de um banco de dados relacional
 - Praticar comandos essenciais de manipulação de dados (CRUD)
