@@ -9,8 +9,9 @@ O projeto inclui a criação e manipulação de dados em diversas tabelas relaci
 - [Atualizações de Dados (UPDATE)](#atualizacoes-de-dados-update)
 - [Exclusão de Dados (DELETE)](#exclusao-de-dados-delete)
 - [Resumo Geral](#resumo-geral)
---
+  
 
+---
 
 # Consultas (SELECT)
 Foram criadas várias consultas utilizando:
@@ -20,7 +21,7 @@ Foram criadas várias consultas utilizando:
 - Pesquisas com condições de intervalo (BETWEEN)
 - Consultas envolvendo múltiplas tabelas com INNER JOIN
 - Seleções relacionadas a clientes, livros, autores, estoques e movimentações
---
+
 
 
 ## Inserções de Dados (INSERT)
@@ -34,7 +35,7 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Estoques
 - Movimentações de estoque
 - Relacionamentos entre livros, autores e gêneros
---
+  
 
 
 ## Atualizações de Dados (UPDATE)
@@ -42,7 +43,7 @@ Foram inseridos dados completos nas principais tabelas do sistema, incluindo:
 - Alteração de informações de contato
 - Mudança de situação de funcionários
 - Atualização de preços de livros
---
+  
 
 
 ## Exclusão de Dados (DELETE)
